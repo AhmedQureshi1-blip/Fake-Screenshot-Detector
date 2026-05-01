@@ -84,18 +84,7 @@ fake-payment-detector/
 ├── README.md
 └── requirements.txt / package.json
 
-yaml
-Copy
-Edit
 
----
-
-## ✅ Planned Features
-
-- 📥 **WhatsApp/Telegram Image Source Detector**
-- 🎥 **Live Camera Upload Support**
-- 📧 **Report Sharing via Email/WhatsApp**
-- 🧾 **Real vs Fake Comparison View**
 - 🔐 **User Login & History Tracking**
 - ⛔ **Deepfake Nude Image Detection Add-on** *(in progress)*
 
@@ -112,8 +101,8 @@ Edit
 
 ## 👨‍💻 Author
 
-**Developed by:** Rashmi Kumari  
-Feel free to reach out via  Email: rashmi8shahi@gmail.com for collaboration or suggestions!
+Developed by: Ahmed Qureshi 
+Feel free to reach out via  Email: ahmedak47qureshi@gmail.com for collaboration or suggestions!
 
 ---
 
