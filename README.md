@@ -92,7 +92,7 @@ fake-payment-detector/
 
 ## 💡 Use Cases
 
-- Freelancers accepting UPI payments
+- Freelancers accepting payments
 - Online sellers verifying buyer payments
 - Businesses preventing digital transaction scams
 - Forensics and cybercrime investigators
